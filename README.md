@@ -338,7 +338,7 @@ kiit-sap-r2r-project/
 pip install pandas openpyxl reportlab
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/kiit-sap-r2r-project.git
+git clone https://github.com/AnweshaB8/kiit-sap-r2r-project.git
 cd kiit-sap-r2r-project
 ```
 
@@ -396,4 +396,4 @@ This generates:
 
 ## 📄 License
 
-This project is for academic purposes — KIIT University SAP BDC Project Submission 2025.
+This project is for academic purposes — KIIT University SAP BDC Project Submission 2026.
