@@ -14,7 +14,7 @@ Software Required:
   - pandas, openpyxl, reportlab
   Install: pip install pandas openpyxl reportlab
 
-GitHub: https://github.com/YOUR_USERNAME/kiit-sap-r2r-project
+GitHub: https://github.com/AnweshaB8/kiit-sap-r2r-project
 """
 
 import pandas as pd
